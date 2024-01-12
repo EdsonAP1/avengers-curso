@@ -4,6 +4,7 @@
 * Red Skull
 * Dr. Aru
 * Dr. mundo
+* Joker
 
 
 
