@@ -2,5 +2,6 @@
 
 * Dr. Doom
 * Red Skull
+* Dr. Aru
 
 
